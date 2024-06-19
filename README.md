@@ -9,3 +9,6 @@ I mostly work with JavaScript based web stuff, preferably Svelte/Typescript/Node
 - [Stack Overflow](https://stackoverflow.com/users/3754229/xenxier)
 - [Visual portfolio on thefullstack](https://thefullstack.network/BenjaminGwynn)
 - [Download my CV as a PDF](https://cv.benjamingwynn.com)
+
+<br/>
+<a href="#"><img src="https://raw.githubusercontent.com/benjamingwynn/benjamingwynn/main/codebin.png" /></a>
