@@ -1,14 +1,20 @@
-#### Hey, you found my Github!
 
-Here you'll find various hacky things and hopefully some interesting stuff too. A lot of what I work on here is internal/backend or web build system stuff, but I also sometimes build games or other intersting visual projects.
+<h3>
+<p align="center">
+<code>Welcome to my Github!</code>
+</p></h3>
 
-I mostly work with JavaScript based web stuff, preferably Svelte/Typescript/Node, but you'll find tools and programs for Android and Linux here too.
+<p align="center">
+<code>Featuring contibutions and hobby projects from the last 12 years</code>
+</p>
 
-##### Links
+- [`Stack Overflow`](https://stackoverflow.com/users/3754229/xenxier)
+- [`Download my CV as a PDF`](https://cv.benjamingwynn.com)
+- [`LinkedIn`](https://www.linkedin.com/in/benjamingwynn/)
+- [`Portfolio of HTML Canvas projects on thefullstack`](https://thefullstack.network/BenjaminGwynn)
+- `emailAddress = atob('Y29udGFjdEBiZW5qY' + 'W1pbmd3eW5uLmNvbQ==')`
 
-- [Stack Overflow](https://stackoverflow.com/users/3754229/xenxier)
-- [Visual portfolio on thefullstack](https://thefullstack.network/BenjaminGwynn)
-- [Download my CV as a PDF](https://cv.benjamingwynn.com)
-
-<br/>
+<p align="right">
 <a href="#"><img src="https://raw.githubusercontent.com/benjamingwynn/benjamingwynn/main/codebin.png" /></a>
+<br/>
+</p>
