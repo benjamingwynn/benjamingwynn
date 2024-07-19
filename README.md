@@ -10,8 +10,8 @@
 
 - [`Stack Overflow`](https://stackoverflow.com/users/3754229/xenxier)
 - [`Download my CV as a PDF`](https://cv.benjamingwynn.com)
-- [`LinkedIn`](https://www.linkedin.com/in/benjamingwynn/)
-- `emailAddress = atob('Y29udGFjdEBiZW5qY' + 'W1pbmd3eW5uLmNvbQ==')`
+- [`Portfolio of HTML Canvas projects on thefullstack`](https://thefullstack.network/BenjaminGwynn)
+- - `emailAddress = atob('Y29udGFjdEBiZW5qY' + 'W1pbmd3eW5uLmNvbQ==')`
 
 <p align="right">
 <a href="#"><img src="https://raw.githubusercontent.com/benjamingwynn/benjamingwynn/main/codebin.png" /></a>
