@@ -9,7 +9,6 @@
 </p>
 
 - [`Stack Overflow`](https://stackoverflow.com/users/3754229/xenxier)
-- [`Portfolio of HTML Canvas projects on thefullstack`](https://thefullstack.network/BenjaminGwynn)
 - `emailAddress = atob('Y29udGFjdEBiZW5qY' + 'W1pbmd3eW5uLmNvbQ==')`
 
 <p align="right">
